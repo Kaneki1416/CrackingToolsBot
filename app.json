@@ -1,7 +1,7 @@
 {
-  "name": "CrackingUtilsBot",
+  "name": "KiYUSUKI",
   "description": "Simple Cracking Tools Bot in Telethon.",
-  "logo": "https://images.discordapp.net/avatars/224415693393625088/8f6a0ca7e883f87241b02ba8e1328f34.png",
+  "logo": "https://telegra.ph/file/e5315c9085fb2a3216565.jpg",
   "keywords": [
     "telegram",
     "cracking",
@@ -9,9 +9,9 @@
     "telegram-bot",
     "productivity"
   ],
-  "repository": "https://github.com/DevsExpo/CrackingToolsBot",
+  "DEVLOPER": "https://t.me/KaNeKi354_bot",
   "website": "starkgang.ml",
-  "success_url": "t.me/devsExpo",
+  "success_url": "https://t.me/KaNeKi354_bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
